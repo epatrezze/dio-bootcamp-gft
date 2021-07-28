@@ -1,7 +1,6 @@
 package collections;
 
 
-import javax.swing.text.html.HTMLDocument;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
